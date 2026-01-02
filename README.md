@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi!
+I'm Izzulhaq Hussain Akbar, an Industrial Engineering graduate with a strong interest in data analytics and business problem-solving. 
 
-<!--
-**izzulhaqhussainakbar/izzulhaqhussainakbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Data Analytics Projects 
+A collection of data analytics projects focused on solving business and operational problems through realistic, data-driven scenarios. 
+<br>
+[Portfolio](https://github.com/izzulhaqhussainakbar/DataAnalystProjects)
 
-Here are some ideas to get you started:
+### 🛠️ Tools 
+- Excel / Google Sheets
+- SQL, Python
+- Looker Studio, Tableau, Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Let’s Connect!
+[LinkedIn](https://www.linkedin.com/in/izzulhaqhussainakbar/)
